@@ -61,7 +61,7 @@ The model successfully simulates asset price paths and calculates option prices 
 
 See, for example, the results we get for AMD option prices.
 
-<img src="\images\AMD">
+<img src="\images\AMD.png">
 
 Overall, especially considering the incredibly limited form our parameter estimation is taking, surprisingly close to actual prices. It would also be fun to just compare it to the Black-Scholes model's predictions, just to see how big an effecet that stochastic volatility has.
 
